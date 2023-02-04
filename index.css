@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+  }
+
+  .container-fluid {
+    display: flex;
+    flex-direction: column;
+    background-image: url("images/header-shapes mobile.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
